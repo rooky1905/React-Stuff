@@ -1,0 +1,19 @@
+.Dice{
+    padding: 100px;
+}
+
+.shake{
+    animation: shake 0.75s infinite;
+}
+
+@keyframes shake{
+    0%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(-90deg);
+    }
+    100%{
+        transform: rotate(90deg);
+    }
+}
