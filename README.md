@@ -1,3 +1,11 @@
+# Important for this Repo
+
+### Please refer different components in 'src' folder as there would be a lot! 
+### Try and render in 'App.js', which is the parent. 
+### I have some commented out components for reference. 
+### Cheers!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
