@@ -3,6 +3,7 @@
 ### Please refer different components in 'src' folder as there would be a lot! 
 ### Try and render in 'App.js', which is the parent. 
 ### I have some commented out components for reference. 
+### I know the repo is not clean and disorganized! For simplicity, each component has its own css file with {Component}.css name.
 ### Cheers!
 
 
