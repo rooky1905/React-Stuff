@@ -3,6 +3,7 @@ import Rando from "./rando";
 import DiceGame from "./DiceGame";
 import ColorBoxes from "./ColorBoxes";
 import Hangman from "./Hangman";
+import Board from "./Board"
 
 import './App.css';
 //imrc --> for imports
@@ -10,8 +11,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+
+      <Board ncols = {5} nrows = {5}/>
+
       {/* {Fully working Hangman game, using state, callbacks inside state, methods, bindings, etc} */}
-      <Hangman />
+      {/* <Hangman /> */}
 
       {/* More complex stuff, states and a fun little game */}
       {/* <ColorBoxes num={18}/> */}
