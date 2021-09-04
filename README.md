@@ -4,6 +4,7 @@
 ### Try and render in 'App.js', which is the parent. 
 ### I have some commented out components for reference. 
 ### I know the repo is not clean and disorganized! For simplicity, each component has its own css file with {Component}.css name.
+### The App.css is a complete mess, kindly don't try to use it
 ### Cheers!
 
 
