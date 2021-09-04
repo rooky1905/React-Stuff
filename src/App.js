@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="App">
 
+      {/* Lights out game, with stuff like passing methods as props, general state stuff and mutating state */}
       <Board ncols = {5} nrows = {5}/>
 
       {/* {Fully working Hangman game, using state, callbacks inside state, methods, bindings, etc} */}
