@@ -13,6 +13,7 @@ function App() {
   return (
     <div className="App">
 
+      {/* Fully fledged ToDo list app, with no CSS (Ugly looking), CRUD are all implemented in React */}
       <Todos />
 
       {/* Lights out game, with stuff like passing methods as props, general state stuff and mutating state */}
