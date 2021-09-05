@@ -1,0 +1,17 @@
+.EachTodo{
+    cursor: pointer;
+    margin-right: 20px;
+    position: relative;
+}
+
+.Todo{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.Todo button{
+    border-radius: 30%;
+    width: 50px;
+    height: 30px;
+}
